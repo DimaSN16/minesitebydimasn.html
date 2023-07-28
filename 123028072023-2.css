@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{background-color: black;}
+
+.windows-10-11{
+    color: white;
+    background-image: url(images/2023-07-28.png);
+    padding-top: 1.35rem;
+    padding-right: 3.1rem;
+    padding-bottom: 1.35rem;
+    padding-left: 3.1rem;
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    text-align: center;
+    font-size: medium;
+    top: 200px;
+    left: 690px;
+}
+
+.windows-10-11:hover{background-image: url(images/2023-07-28-141732.png);}
+.windows-10-11:active{
+    border: 1px solid;
+    border-color: rgb(48, 46, 129);
+}
+
+.download-jpg{
+    width: 50px;
+    position: absolute;
+    top: 400px;
+    left: 600px;
+}
+
+.download-txt{
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto', sans-serif;
+    top: 416px;
+    left: 655px;
+    position: absolute;
+    text-decoration: none;
+}
+
+.buy{
+    padding: 15px 30px;
+    position: absolute;
+    background-image: url(images/button-1442.png);
+    width: 152px;
+    height: 19px;
+    top: 800px;
+    left: 770px;
+}
+.buy:hover{
+    background-image: url(images/button-1448.png);
+    width: 155px;
+    height: 22px;
+}
+
+.minecraft-block-img-png{
+    width: 200px;
+    position: absolute;
+    top: 120px;
+    right: 400px;
+}
